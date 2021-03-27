@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Conversion Calculator</string>
+    <string name="from_label">From</string>
+    <string name="enter_from_value">Enter from value</string>
+    <string name="to_label">To</string>
+    <string name="enter_to_value">Enter to value</string>
+    <string name="length_converter">Length Converter</string>
+    <string name="yards">Yards</string>
+    <string name="meters">Meters</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="mode">Mode</string>
+
+    <string name="settingsTitle" formatted="false">%s Converter</string>
+    <string name="settings">Settings</string>
+    <string name="volume_converter">Volume Converter</string>
+    <string name="gallons">Gallons</string>
+    <string name="liters">Liters</string>
+    <string name="history">History</string>
+
+</resources>
